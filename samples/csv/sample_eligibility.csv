@@ -1,0 +1,3 @@
+Patient Name,Patient ID,ABHA ID,Gender,DOB,Mobile No,Policy Number,Insurance Company,Insurer ID,Member ID,Sum Insured,Policy Start Date,Policy End Date,Relationship,Hospital Name,Hospital ID,Service Type,Request ID
+Anil Verma,MR-ELG-001,98765432101234,M,05/08/1980,9998887770,POL-NIVA-2024-001,Niva Bupa Health Insurance,INS-001,MEM-NIVA-001,300000,01/06/2024,31/05/2025,Self,Rainbow Hospital,HOSP-ELG-001,OPD Consultation,REQ-2024-ELG-001
+Meena Gupta,MR-ELG-002,,F,14/02/1990,8887776665,GRP-TATA-2024-009,Tata AIG Health,INS-002,EMP-TATA-009,750000,01/04/2024,31/03/2025,Self,Sakra World Hospital,HOSP-ELG-002,Elective Surgery,REQ-2024-ELG-002

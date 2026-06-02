@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "patientId": "MR-JSON-001",
+      "patientName": "Ananya Krishnan",
+      "gender": "F",
+      "dob": "1992-03-14",
+      "abhaId": "91234567890123",
+      "phone": "9345678901",
+      "email": "ananya.k@email.com",
+      "address": "25 Anna Nagar West",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600040",
+      "policyNumber": "CITI-HLTH-2024-45678",
+      "insurerName": "Cigna TTK Health Insurance",
+      "insurerId": "INS-CIGNA-001",
+      "memberId": "CIGNA-MEM-45678",
+      "sumInsured": 1000000,
+      "policyStartDate": "2024-01-01",
+      "policyEndDate": "2024-12-31",
+      "relationship": "Self",
+      "hospitalName": "Sri Ramachandra Medical Centre",
+      "hospitalId": "SRMC-001",
+      "rohiniId": "ROH-SRMC-001",
+      "claimId": "CLM-JSON-2024-001",
+      "claimDate": "2024-09-22",
+      "admissionDate": "2024-09-18",
+      "dischargeDate": "2024-09-22",
+      "claimedAmount": 95000,
+      "hospitalizationType": "Planned",
+      "icdCode": "J18",
+      "diagnosisName": "Community Acquired Pneumonia",
+      "procedureName": "Bronchoscopy",
+      "items": [
+        { "description": "Room Charges (4 days)", "quantity": 4, "unitPrice": 5000, "netAmount": 20000 },
+        { "description": "Bronchoscopy Procedure", "quantity": 1, "unitPrice": 35000, "netAmount": 35000 },
+        { "description": "Antibiotics & Medicines", "quantity": 1, "unitPrice": 25000, "netAmount": 25000 },
+        { "description": "Lab Tests & Radiology", "quantity": 1, "unitPrice": 15000, "netAmount": 15000 }
+      ],
+      "notes": "Patient admitted with respiratory distress, required bronchoscopy for diagnosis"
+    }
+  ]
+}

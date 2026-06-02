@@ -1,0 +1,10 @@
+2026-06-01 13:00:47 [info]: 🚀 NHCX FHIR Convertor running on http://localhost:5001
+2026-06-01 13:00:47 [info]: 📋 Environment: development
+2026-06-01 13:00:47 [info]: 🤖 LLM Provider: openai
+2026-06-01 13:00:47 [info]: 📁 Upload dir: /Users/akhilbabbar/Downloads/New WinRAR ZIP archive/nhcx-fhir-convertor/backend/uploads
+2026-06-01 13:06:07 [info]: 🚀 NHCX FHIR Convertor running on http://localhost:5001
+2026-06-01 13:06:07 [info]: 📋 Environment: development
+2026-06-01 13:06:07 [info]: 🤖 LLM Provider: openai
+2026-06-01 13:06:07 [info]: 📁 Upload dir: /Users/akhilbabbar/Downloads/New WinRAR ZIP archive/nhcx-fhir-convertor/backend/uploads
+2026-06-01 13:09:10 [info]: Parsing: 1e185833-f559-4a9d-a207-6d17567d0d2c.csv (.csv)
+2026-06-01 13:09:10 [info]: No LLM configured — using rule-based mapping
